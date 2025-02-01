@@ -1,31 +1,38 @@
 # Index A of Linux Commands  
 
-### Start a new process in the background
-``` shell
-&  
+## Create an alias  
+
+`alias`  
+
+
+## Search Help manual pages (`man -k`) 
+
+`apropos`  
  
- ```
 
-## `alias`  
-Create an alias  
+## Search for and install software packages (Debian/Ubuntu)
 
-## `apropos`  
-Search Help manual pages (`man -k`)  
+`apt`  
+  
 
-## `apt`  
-Search for and install software packages (Debian/Ubuntu)  
+## Search for and install software packages (Debian/Ubuntu)  
 
-## `apt-get`  
-Search for and install software packages (Debian/Ubuntu)  
+`apt-get`  
 
-## `aptitude`  
-Search for and install software packages (Debian/Ubuntu)  
+## Search for and install software packages (Debian/Ubuntu)  
 
-## `aspell`  
-Spell Checker  
+`aptitude`  
 
-## `at`  
-Schedule a command to run once at a particular time  
 
-## `awk`  
-Find and Replace text, database sort/validate/index  
+## Spell Checker 
+`aspell`  
+ 
+
+## Schedule a command to run once at a particular time 
+
+`at`  
+ 
+
+## Find and Replace text, database sort/validate/index  
+
+`awk`  
