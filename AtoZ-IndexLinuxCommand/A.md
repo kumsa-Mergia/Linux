@@ -1,6 +1,6 @@
 # Index A of Linux Commands  
 
-## ```shell
+``` shell
 #Start a new process in the background
 &  
  
