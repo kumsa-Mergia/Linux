@@ -1,5 +1,3 @@
----
-
 ## 🧩 LVM Volume Extension Cheat Sheet (Add 20GB to `/opt`)
 
 ### 🔧 1. Partition the New Disk (`/dev/sdc`)
@@ -77,4 +75,4 @@ df -T /opt
 
 ---
 
-![Screenshot](https://drive.google.com/file/d/1K97FOIMfJ-Put6TyrzApYQwSOd7GJ-9x/view?usp=drive_link).
+![Screenshot](https://drive.google.com/uc?id=1K97FOIMfJ-Put6TyrzApYQwSOd7GJ-9x)
