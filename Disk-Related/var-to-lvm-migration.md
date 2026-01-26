@@ -16,7 +16,7 @@ This setup helps prevent `/var` (logs, cache, spool, etc.) from filling up the r
 - Logical Volume: `lv_var`
 - Logical Volume size: `99G`
 
-> ⚠️ Device names may differ (`/dev/sdb`, `/dev/sdc`). Always verify before executing commands.
+>  Device names may differ (`/dev/sdb`, `/dev/sdc`). Always verify before executing commands.
 
 ---
 
@@ -207,7 +207,6 @@ After confirming everything works correctly:
 ```bash
 rm -rf /var.old
 ```
-
 ---
 
 ## Result
