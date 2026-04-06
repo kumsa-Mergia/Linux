@@ -73,6 +73,9 @@ You should now see **\~30GB** total for `/opt`.
 df -T /opt
 ```
 
+
+This is the same for other mount point also
+
 ---
 
 ![Screenshot](https://drive.google.com/uc?id=1K97FOIMfJ-Put6TyrzApYQwSOd7GJ-9x)
