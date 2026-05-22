@@ -39,6 +39,11 @@ vgextend rootvg /dev/sdc1
 lvextend -L +20G /dev/mapper/rootvg-optlv
 ```
 
+Use +100%FREE if You Want All Available size.
+
+```bash
+lvextend -l +100%FREE /dev/mapper/rootvg-optlv
+```
 ---
 
 ### 📦 5. Resize the Filesystem
